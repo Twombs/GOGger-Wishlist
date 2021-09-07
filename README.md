@@ -1,7 +1,7 @@
 # GOGger-Wishlist
 GOGger Wishlist is a program to keep tabs on game entries on your online GOG Wishlist.
 
-It has been developed due to shortcomings of the online GOG Wishlist, and to assist with purchasing decisions.
+It has been developed due to current limitations of the online GOG Wishlist, and to assist with purchasing decisions.
 
 ![GOGger Wishlist](https://github.com/Twombs/GOGger-Wishlist/blob/main/GOGger%20Wishlist.png?raw=true)
 
