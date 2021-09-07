@@ -1,5 +1,5 @@
 # GOGger-Wishlist
-GOGger Wishlist is a program to keep tabs on game entries on your online GOG Wishlist.
+GOGger Wishlist is a program to keep tabs on game entries on your online GOG Wishlist. It has been developed due to online shortfalls at GOG.
 
 ![GOGger Wishlist](https://github.com/Twombs/GOGger-Wishlist/blob/main/GOGger%20Wishlist.png?raw=true)
 
@@ -9,6 +9,8 @@ For games added to GOGger Wishlist, a few records are kept, and in some cases im
 
 One optional ADD feature of the program, will probably require that the user's online GOG Wishlist be set to visible for 'Everyone' in account settings.
 
-Game titles are displayed in the order added to the list, but all columns, except the URL one, can be sorted by clicking on the column header. NOTE - Alas, for some reason when sorted, that Listviw feature removes trailing zeroes (i.e. 1.50 becomes 1.5 and 1.0 becomes 1 etc). This is not due to my coding, and does not effect stored records usually.
+Game titles are displayed in the order added to the list, but all columns, except the URL one, can be sorted by clicking on the column header. NOTE - Alas, for some reason when sorted, that Listview feature removes trailing zeroes (i.e. '1.50' becomes '1.5' and '1.0' becomes '1' etc). This is not due to my coding, and does not effect stored records usually. On a reload or program restart, all is displayed as should be.
+
+One of the UPDATE options can work with my GOGcli GUI program, to remove recent purchases from the Wishlist.
 
 Enjoy!
