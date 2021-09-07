@@ -15,7 +15,7 @@ One optional ADD feature of the program, will probably require that the user's o
 
 Game titles are displayed in the order added to the list, but all columns, except the URL one, can be sorted by clicking on the column header. NOTE - Alas, for some reason when sorted, that Listview feature removes trailing zeroes (i.e. '1.50' becomes '1.5' and '1.0' becomes '1' etc). This is not due to my coding, and does not effect stored records usually. On a reload or program restart, all prices are displayed as they should be.
 
-The GOG API is used to get current price for a title, using the Game ID.
+The GOG API is used to get current price for a game Title, using the Game ID.
 
 One of the UPDATE options can work with my GOGcli GUI program, to remove recent purchases from the Wishlist.
 
